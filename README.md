@@ -3,7 +3,7 @@
 
 ## 💻 Sobre o projeto.
 
- Conhecido como AWP (Audio Watch Project), é uma iniciativa inovadora destinada a atender às necessidades específicas das pessoas com deficiência auditiva. Este projeto revolucionário combina avançada tecnologia de sensoriamento sonoro com soluções de comunicação eficazes, proporcionando uma experiência aprimorada para indivíduos que enfrentam desafios na percepção auditiva.
+ Conhecido como AWP (Audio Watch Project), uma iniciativa inovadora destinada a atender às necessidades específicas das pessoas com deficiência auditiva. Este projeto revolucionário, combina uma avançada tecnologia de sensoriamento sonoro com soluções de comunicação eficazes, proporcionando uma experiência aprimorada para indivíduos que enfrentam desafios na percepção auditiva.
 
 ## 💻 Como funciona?
 
@@ -14,7 +14,7 @@
 
 Hardware Utilizado:
 
- Para a implementação do nosso projeto, utilizamos uma série de componentes de hardware essenciais. Entre eles, destacam-se:
+ Para a implementação do nosso projeto, utilizamos uma série de componentes de hardware aos quais foram essenciais. Entre eles, destacam-se:
 
 1. 2 ESP8266 NodeMCU D1 Mini
    - Descrição: Placas de desenvolvimento baseadas em ESP8266, proporcionando conectividade Wi-Fi.
@@ -49,7 +49,7 @@ Estes componentes formam a base do hardware empregado para a execução bem-suce
 
 Software:
 
- No âmbito do software, implementamos diversas programações distintas para diferentes componentes do projeto, as quais desempenham funções específicas. São elas:
+ No âmbito do software, implementamos diversas programações distintas para os diferentes componentes do projeto, as quais desempenham funções específicas. São elas:
 
 1. Firmware do Relógio:
    - O firmware do relógio é responsável por gerenciar a interface do usuário, processar os dados recebidos e controlar a exibição no display OLED. Ele também gerencia a comunicação com os microcontroladores ESP8266 NodeMCU D1 Mini para coordenação eficaz das funções do dispositivo.
@@ -66,7 +66,7 @@ Cada componente de software desempenha um papel crítico na operação integrada
   
 ## 📫 Diario de Bordo.
 
- Para obter mais informações detalhadas sobre o progresso da equipe, como por exemplo as reuniões e atividades diárias, até o final do projeto. O rcomendado acessar o diário de bordo da equipe 2104, no OneNote, através do link fornecido abaixo.
+ Para obter mais informações detalhadas sobre o progresso da equipe, como por exemplo as reuniões e atividades diárias, até o final do projeto. O recomendado acessar o diário de bordo da equipe 2104, no OneNote, através do link fornecido abaixo.
 <p align='center'>
  
   <a href="https://eteacojeorg-my.sharepoint.com/:o:/g/personal/freitas_j_edu_etefmc_com_br/EgUp486kboZGrSqPbz-lGv4BfmcwCqUDRjT4-NkH4WhdEQ?e=SHGIee">
