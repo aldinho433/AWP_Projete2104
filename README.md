@@ -84,7 +84,7 @@ Cada componente de software desempenha um papel crítico na operação integrada
       <a href="https://instagram.com/pinguinzx">
         <img src="https://github.com/aldinho433/AWP_Projete2104/blob/main/aldo.jpeg" width="100px;" alt="Foto do Pinguim no GitHub"/><br>
         <sub>
-          <b><p>Aldo</p><p>Hardware/GitHub</p></b>
+          <b><p>Aldo Gabriel</p><p>Hardware/GitHub</p></b>
         </sub>
       </a>
     </td>
@@ -92,7 +92,7 @@ Cada componente de software desempenha um papel crítico na operação integrada
       <a href="https://instagram.com/pinguinzx">
         <img src="https://github.com/aldinho433/AWP_Projete2104/blob/main/luis.jpeg" width="100px;" alt="Foto do Pinguim no GitHub"/><br>
         <sub>
-          <b><p>Eduardo</p><p>Hardware</p></b>
+          <b><p>Luis Gustavo</p><p>Hardware</p></b>
         </sub>
       </a>
     </td>
@@ -100,7 +100,7 @@ Cada componente de software desempenha um papel crítico na operação integrada
       <a href="https://www.instagram.com/aldinho.g/">
        <img src="https://github.com/aldinho433/AWP_Projete2104/blob/main/duarte.jpeg" width="130px height="120px";" alt="Foto do Pinguim no GitHub"/><br>
         <sub>
-         <b><p>Aldo Gabriel</p><p>Softwar/Diário de bordo</p></b>
+         <b><p>Maria Clara Duarte</p><p>Softwar/Diário de bordo</p></b>
         </sub>
       </a>
     </td>
@@ -112,7 +112,7 @@ Cada componente de software desempenha um papel crítico na operação integrada
       <a href="https://instagram.com/arthur_lgc">
        <img src="https://github.com/aldinho433/AWP_Projete2104/blob/main/duardo.jpeg" width="100px;" alt="Foto do Pinguim no GitHub"/><br>
         <sub>
-          <b><p>Arthur Brentegani</p><p>Software
+          <b><p>Eduardo Forster</p><p>Software
 </p></b>
         </sub>
       </a>
