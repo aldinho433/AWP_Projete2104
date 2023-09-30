@@ -69,7 +69,7 @@ Cada componente de software desempenha um papel crítico na operação integrada
  Para obter mais informações detalhadas sobre o progresso da equipe, como por exemplo as reuniões e atividades diárias, até o final do projeto. O recomendado acessar o diário de bordo da equipe 2104, no OneNote, através do link fornecido abaixo.
 <p align='center'>
  
-  <a href="https://eteacojeorg-my.sharepoint.com/:o:/g/personal/freitas_j_edu_etefmc_com_br/EgUp486kboZGrSqPbz-lGv4BfmcwCqUDRjT4-NkH4WhdEQ?e=SHGIee">
+  <a href="https://eteacojeorg-my.sharepoint.com/:o:/g/personal/eduardo_forster_edu_etefmc_com_br/EkQSzstN0WlDpU6XBYGiPu8BX7sy09HyoMOUN05GoLDovQ?e=cXLblS">
     <img height="120em" src="https://github.com/Jpinguim/Projete-equipe-1102/blob/main/Img/68747470733a2f2f7777772e6132686f73742e636f6d2e62722f626c6f672f77702d636f6e74656e742f75706c6f6164732f323031352f30382f4f6e654e6f74652e706e67.png" />  
   </a>&nbsp;&nbsp;
 </p>
