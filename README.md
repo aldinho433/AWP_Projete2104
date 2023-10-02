@@ -3,7 +3,7 @@
 
 ## 💻 Sobre o projeto.
 
- Conhecido como AWP (Audio Watch Project), uma iniciativa inovadora destinada a atender às necessidades específicas das pessoas com deficiência auditiva. Este projeto revolucionário, combina uma avançada tecnologia de sensoriamento sonoro com soluções de comunicação eficazes, proporcionando uma experiência aprimorada para indivíduos que enfrentam desafios na percepção auditiva.
+ vichhhConhecido como AWP (Audio Watch Project), uma iniciativa inovadora destinada a atender às necessidades específicas das pessoas com deficiência auditiva. Este projeto revolucionário, combina uma avançada tecnologia de sensoriamento sonoro com soluções de comunicação eficazes, proporcionando uma experiência aprimorada para indivíduos que enfrentam desafios na percepção auditiva.
 
 ## 💻 Como funciona?
 
